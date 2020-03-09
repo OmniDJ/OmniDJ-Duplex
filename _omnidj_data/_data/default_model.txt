@@ -1,0 +1,20 @@
+{
+ "ROOM_MODEL" : "01_1712_y_720_1280_c.pb",
+ "ISY" : 1,
+ "CLASSES" : "coco_classes.txt",
+ "PERSON_CLASS" : 0,
+ "OUTPUT_H" : 720,
+ "OUTPUT_W" : 1280,
+ 
+ 
+ "### URL GoogleDrive" : "https://drive.google.com/uc?export=download&confirm=gfCn&id=16TGZw3ykzlvHaaPQplrVTD9IBgwfGKZ3",
+ "URL" : "https://www.dropbox.com/s/80sg6zz20wla7g4/01_1712_y_720_1280_c.pb?dl=1",
+ 
+ "FACE_MODEL" : "20_190301_mob_ssd_faces.pb",
+ "URL_FACE" : "https://www.dropbox.com/s/3wqx7vzj7qx3iwa/20_190301_mob_ssd_faces.pb?dl=1",
+ 
+ "EMO_MODEL" : "VEMO0108.pb",
+ "URL_EMO" : "https://www.dropbox.com/s/lpixmzmii41duc4/VEMO0108.pb?dl=1"
+ 
+
+}

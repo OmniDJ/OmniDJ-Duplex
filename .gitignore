@@ -1,0 +1,10 @@
+
+.spyproject/
+
+duplex/__pycache__/
+
+_omnidj_data/_logs/
+
+_omnidj_data/_models/
+
+*.pb

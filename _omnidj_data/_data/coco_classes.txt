@@ -1,0 +1,80 @@
+persoana
+bicicleta
+masina
+motocicleta
+avion
+autobuz
+tren
+camion
+barca
+semafor
+hidrant
+semn de oprire
+aparat care ponteaza parcarea
+banca
+pasare
+pisica
+caine
+cal
+oaie
+vaca
+elefant
+urs
+zebra
+girafa
+rucsac
+umbrela
+geanta de mana
+cravata
+valiza
+Frisbee
+schiuri
+snowboard
+minge de sport
+zmeu
+bata de baseball
+manusa de baseball
+skateboard
+placa de surf
+racheta de tenis
+sticla
+pahar de vin
+ceasca
+furculita
+cutit
+lingurita
+castron
+banana
+mar
+sandwich
+portocale
+brocoli
+morcov
+hot dog
+pizza
+gogoasa
+tort
+scaun
+canapea
+planta in ghiveci
+pat
+masa
+toaleta
+tvmonitor
+laptop
+mouse
+mobil
+tastatura
+telefon mobil
+cuptor cu microunde
+cuptor
+prajitor de paine
+chiuveta
+frigider
+carte
+ceas
+vaza
+foarfece
+ursulet
+uscator de par
+periuta de dinti

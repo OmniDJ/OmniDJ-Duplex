@@ -1,0 +1,11 @@
+{
+  "BASE_FOLDER" : "",
+  "APP_FOLDER" : "_omnidj_data",
+  
+  "SEND_EVENT" : "joined_room",
+  "URL_KEY" : "image_send_url",
+  "EVENT_KEY" : "event",
+  "IMAGE_KEY" : "image",
+  
+  "EXCEPT_KEYS" : ["image_send_url", "event"]  
+}

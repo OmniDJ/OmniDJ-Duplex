@@ -1,0 +1,7 @@
+{
+    "event": "closed_room",
+    "image_send_url": "https://80436d7a.ngrok.io/api/send_image",
+    "user_id": 52639514258351,
+    "user_name": "vw2",
+    "user_room": 2621908292111964
+}
